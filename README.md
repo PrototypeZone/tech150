@@ -6,6 +6,8 @@ Welcome to TECH 150 - Please attend your labs with your parts kit and your [lab 
 
 [Parts Crib Signout](https://vladporcila.github.io/#partscribSignout)
 
+[Semilog graphing example](https://www.mathnstuff.com/math/spoken/here/2class/340/gif/lgf3.gif)
+
 2025 May-June Lab Schedule (Tentative)
 
 |Week|A         |B         |Topics/Assignment                                                                                         | Due %               |
