@@ -2,7 +2,7 @@
 
 [TECH 150 Course Outline](https://humber.ca/transferoptions/course-outlines/outline.html?code=TECH%20150)
 
-Welcome to TECH 150 - Please attend your labs with your parts kit and your lab manual.
+Welcome to TECH 150 - Please attend your labs with your parts kit and your [lab manual](https://www.bkstr.com/humberitstore/product/laboratory-exercises-for-electronic-devices-272165-1).
 
 [Parts Crib Signout](https://vladporcila.github.io/#partscribSignout)
 
