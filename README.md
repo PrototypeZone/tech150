@@ -4,6 +4,8 @@
 
 Welcome to TECH 150 - Please attend your labs with your parts kit and your lab manual.
 
+[Parts Crib Signout](https://vladporcila.github.io/#partscribSignout)
+
 2025 May-June Lab Schedule (Tentative)
 
 |Week|A         |B         |Topics/Assignment                                                                                         | Due %               |
