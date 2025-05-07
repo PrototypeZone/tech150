@@ -2,7 +2,7 @@
 
 [TECH 150 Course Outline](https://humber.ca/transferoptions/course-outlines/outline.html?code=TECH%20150)
 
-Welcome to TECH 150 - Please attend your labs with your parts kit.
+Welcome to TECH 150 - Please attend your labs with your parts kit and your lab manual.
 
 2025 May-June Lab Schedule (Tentative)
 
