@@ -16,7 +16,7 @@ Welcome to TECH 150 - Please attend your labs with your parts kit and your [lab 
 |2   |2025-05-14|2025-05-15|[Exp. 2 (rectification and clipping during lab) Part 1, Part 2, Part 3: Diodes and Applications](https://www.youtube.com/watch?v=afHMWO7I1to) [We have MultiSim on myApps](https://www.youtube.com/watch?v=boqO6ccq-40)|Lab01 paper copy, Show lab02 measurements|
 |    |2025-05-19|2025-05-19|Monday Public Holiday (Victoria Day) - College Closed       |                                         |
 |3   |2025-05-21|2025-05-22|Exp. 3 Part 1: Special Purpose Diodes Steps 1-9 Conclusion/Questions: Part 1: 1,2,3|Lab02 paper copy, Show lab03 Table 3-2|
-|4   |2025-05-28|2025-05-29|Exp. 8 Part 1, Part 3: Field-Effect Transistors (FETs) (Part 1 Step 2 should read Keep VGG at 0V and slowly increase VDD (to about 1.4V) until VDS is 1.0V and Part3 Rs use 150Ohm)     |Lab03 paper copy, Show lab04 measurements|
+|4   |2025-05-28|2025-05-29|Exp. 8 Part 1, Part 3: Field-Effect Transistors (FETs) (Part 1 Step 2 should read Keep VGG at 0V and slowly increase VDD (to about 1.4V) until VDS is 1.0V and Part3 Rs use 150Ohm, Rd use 3.3kOhm)     |Lab03 paper copy, Show lab04 measurements|
 |5   |2025-06-04|2025-06-05|Exp. 9 Part 1, Part 2: FET Amplifiers and Switching Circuits|Lab04 paper copy, Show lab05 measurements|
 |6   |2025-06-11|2025-06-12|Exp. 9 Part 3: FET Amplifiers                               |Lab05 paper copy, Show lab06 measurements|
 |7   |2025-06-18|2025-06-19|Lab Overall Evaluation (5%)                                 |Lab06 paper copy, labtest1               |
