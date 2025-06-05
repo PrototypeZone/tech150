@@ -17,7 +17,7 @@ Welcome to TECH 150 - Please attend your labs with your parts kit and your [lab 
 |    |2025-05-19|2025-05-19|Monday Public Holiday (Victoria Day) - College Closed       |                                         |
 |3   |2025-05-21|2025-05-22|Exp. 3 Part 1: Special Purpose Diodes Steps 1-9 Conclusion/Questions: Part 1: 1,2,3|Lab02 paper copy, Show lab03 Table 3-2|
 |4   |2025-06-04|2025-05-29|Exp. 8 Part 1 Steps 1-10 step 11 IDSS (IDS with VGS shorted), Part 3: Field-Effect Transistors (FETs) (Part 1 Step 2 should read Keep VGG at 0V and slowly increase VDD (to about 1.4V) until VDS is 1.0V and Part3 Rs use 220Ohm, Rd use 3.3kOhm)     |Lab03 paper copy, Show lab04 measurements|
-|5   |2025-06-11|2025-06-05|Exp. 9 Part 1, Part 2: FET Amplifiers and Switching Circuits|Lab04 paper copy, Show lab05 measurements|
+|5   |2025-06-11|2025-06-05|Exp. 9 Part 1 (use Rs=560 Ohm instead of 620 Ohm), Part 2: FET Amplifiers and Switching Circuits|Lab04 paper copy, Show lab05 measurements|
 |6   |2025-06-18|2025-06-12|Exp. 9 Part 3: FET Amplifiers                               |Lab05 paper copy, Show lab06 measurements|
 |7   |2025-06-18|2025-06-19|Lab Overall Evaluation (5%)                                 |Lab06 paper copy, labtest1               |
 |    |2025-06-25|2025-06-26|*Reading Week, No Class Scheduled*                          |                                         |
