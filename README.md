@@ -19,10 +19,10 @@ Welcome to TECH 150 - Please attend your labs with your parts kit and your [lab 
 |4   |          |2025-05-29|Exp. 8 Part 1 Steps 1-10 step 11 IDSS (IDS with VGS shorted), Part 3: Field-Effect Transistors (FETs) (Part 1 Step 2 should read Keep VGG at 0V and slowly increase VDD (to about 1.4V) until VDS is 1.0V and Part3 Rs use 220Ohm, Rd use 3.3kOhm)     |Lab03 paper copy, Show lab04 measurements|
 |    |2025-06-04|          |Exp. 8 Part 1 Steps 1-10 step 11 IDSS (IDS with VGS shorted), Part 3: Field-Effect Transistors (FETs) (Part 1 Step 2 should read Keep VGG at 0V and slowly increase VDD (to about 1.4V) until VDS is 1.0V and Part3 Rs use 220Ohm, Rd use 3.3kOhm)     |Lab03 paper copy, Show lab04 measurements|
 |    |          |          |                                                            |                                         |
-|5   |          |2025-06-05|Exp. 9 Part 1 (use Rs=560 Ohm instead of 620 Ohm), Part 2: FET Amplifiers and Switching Circuits|Lab04 paper copy, Show lab05 measurements|
+|5   |          |2025-06-05|Exp. 9 Part 1 (Step 4 use Rs=560 Ohm instead of 620 Ohm), Part 2: FET Amplifiers and Switching Circuits|Lab04 paper copy, Show lab05 measurements|
 |    |          |          |                                                            |                                         |
 |    |          |          |Reminder  that parts signed out from the parts crib are to be returned the same day|                  |
-|6   |2025-06-11|          |Exp. 9 Part 1 (use Rs=560 Ohm instead of 620 Ohm)           |Submit Exp. 8 Part 1 and Part 3 paper copy|
+|6   |2025-06-11|          |Exp. 9 Part 1 (Step 4 use Rs=560 Ohm instead of 620 Ohm)           |Submit Exp. 8 Part 1 and Part 3 paper copy|
 |    |          |          |Show the completed Table 9-2 prior to leaving the lab.      |                                         |
 |    |          |          |For next week:                                              |                                         |
 |    |          |          |-Each student is to build Figure 9-2 (without the JFET before the lab)|                               |
