@@ -29,10 +29,10 @@ Welcome to TECH 150 - Please attend your labs with your parts kit and your [lab 
 |    |          |          |-Regarding submitting part 1, please make sure that you are submitting on paper you have rights to|   |
 |    |          |          |                                                            |                                         |
 |    |          |2025-06-12|Exp. 9 Part 3: FET Amplifiers (Use R3=200kOhm, R4=470kOhm)  |Lab05 paper copy, Show lab06 measurements|
-|    |          |          |-Regarding submitting part 1 and part 2, please make sure that you are submitting on paper you have rights to||
+|    |          |          |-Regarding recording measurements for part 3, please make sure that you are writing/submitting on paper you have rights to||
 |    |          |          |                                                            |                                         |
 |7   |2025-06-18|          |Individual Lab Overall Evaluation Figure 9-2 built without the JFET prior to the lab (5%)|Exp.9 Part 1 paper copy, labtest1|
-|    |          |2025-06-19|Lab Overall Evaluation (5%)                                 |Exp.9 Part 3 paper copy, labtest1        |
+|    |          |2025-06-19|Individual Lab Overall Evaluation Figure 9-2 built without the JFET prior to the lab (5%)|Exp.9 Part 3 paper copy, labtest1|
 |    |          |          |                                                            |                                         |
 |    |          |          |                                                            |                                         |
 |    |2025-06-25|2025-06-26|*Reading Week, No Class Scheduled*                          |                                         |
