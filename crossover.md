@@ -1,6 +1,11 @@
 # Crossover simulation
 We will be simulating an [audio crossover circuit](https://sites.google.com/site/undefinition/bookshelf-speakers/classix-ii) using the spice plugin in [KiCad 8.0.3](https://downloads.kicad.org/kicad/windows/explore/stable/download/kicad-8.0.3-x86_64.exe). This specific version is used to maintain compatibility with files since older versions of KiCad often have trouble opening designs made with newer versions. It is a large download but building familiarity with this specific frontend for spice opens up future design potential.
 
+## Work by others
+https://www.audiosciencereview.com/forum/index.php?threads/classix-ii-measurements-review.31925/   
+https://forums.audioholics.com/forums/threads/classix-2-build.106779/   
+[Design with the same woofer by the manufacturer with one of their tweeters](https://www.daytonaudio.com/images/resources/300-640-dayton-audio-br-1-manual-43169.pdf)   
+
 ## Approach
 https://www.kicad.org/discover/spice/
 
