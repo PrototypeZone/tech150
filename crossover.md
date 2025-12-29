@@ -1,7 +1,5 @@
 # Crossover simulation
-We will be simulating an audio crossover circuit using [KiCad 8.0.3](https://downloads.kicad.org/kicad/windows/explore/stable/download/kicad-8.0.3-x86_64.exe). This specific version
-is used to maintain compatibility with files since older versions of KiCad often have trouble opening designs made with newer versions. It is a large download but building familiarity 
-with this specific frontend for spice opens up future design potential.
+We will be simulating an [audio crossover circuit](https://sites.google.com/site/undefinition/bookshelf-speakers/classix-ii) using [KiCad 8.0.3](https://downloads.kicad.org/kicad/windows/explore/stable/download/kicad-8.0.3-x86_64.exe). This specific version is used to maintain compatibility with files since older versions of KiCad often have trouble opening designs made with newer versions. It is a large download but building familiarity with this specific frontend for spice opens up future design potential.
 
 ## Approach
 https://www.kicad.org/discover/spice/
