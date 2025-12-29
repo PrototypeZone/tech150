@@ -14,4 +14,4 @@ https://www.kicad.org/discover/spice/
 -   [Project File](/media/Crossover2025-12-29.kicad_pro)
 -   [Schematic File](/media/Crossover2025-12-29.kicad_sch)
 4. Download the above /media/Crossover2025-12-29.kicad_pro, pcb, and sch.
-5. Use KiCad to open the _pro project file, then navigate to opening the PCB file.
+5. Use KiCad to open the _pro project file, then navigate to opening the SCH file.
