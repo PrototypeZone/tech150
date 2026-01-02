@@ -14,7 +14,8 @@ https://www.kicad.org/discover/spice/
 ![](media/1.png)
 2. Start with default settings:   
 ![](media/2.png)
-3. Start with the below file:
+3. Opt out of updates/new versions.
+4. Start with the below file:
 -   [PCB File](/media/Crossover2025-12-29.kicad_pcb)   
 -   [Project File](/media/Crossover2025-12-29.kicad_pro)
 -   [Schematic File](/media/Crossover2025-12-29.kicad_sch)
