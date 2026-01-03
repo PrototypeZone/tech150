@@ -11,13 +11,22 @@ https://www.kicad.org/discover/spice/
 
 ## Work in progress
 1. Launch KiCad:   
-![](media/1.png)
-2. Start with default settings:   
-![](media/2.png)
+2. Start with default settings.
 3. Opt out of updates/new versions.
-4. Start with the below file:
+4. Start with the below files:
 -   [PCB File](/media/Crossover2025-12-29.kicad_pcb)   
 -   [Project File](/media/Crossover2025-12-29.kicad_pro)
 -   [Schematic File](/media/Crossover2025-12-29.kicad_sch)
-4. Download the above /media/Crossover2025-12-29.kicad_pro, pcb, and sch.
+4. Download the above /media/Crossover2025-12-29.kicad_pro, pcb, and sch into a folder named Crossover2025-12-19.
 5. Use KiCad to open the _pro project file, then navigate to opening the SCH file.
+6. Select Inspect->Simluator
+7. Select Simulation->New Analysis Tab...
+8. Analysis type: AC -- Small-Signal Analysis    
+   Number of points per decade: 10
+   Start frequency: 20 Hz   
+   Stop frequency: 20k Hz   
+9. OK
+10. Simulation->Run Simulation
+11. Check Plot V(Net-\_C3-Pad1\_)(gain) [x]
+12. Check Plot V(Net-\_R1-Pad2\_)(gain) [x]   
+    ![](media/1.png)
