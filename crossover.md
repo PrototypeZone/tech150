@@ -29,4 +29,4 @@ https://www.kicad.org/discover/spice/
 10. Simulation->Run Simulation
 11. Check Plot V(Net-\_C3-Pad1\_)(gain) [x] 
 12. Check Plot V(Net-\_R1-Pad2\_)(gain) [x]   
-    ![](media/1.png)
+    ![plot](media/1.png)   
